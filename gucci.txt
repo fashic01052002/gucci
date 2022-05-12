@@ -1,1 +1,13 @@
-aloaloalo
+git clone tạo kho lưu trữ từ xa
+
+git push dùng để cập nhật nhiều nhánh từ xa với những thay đổi mới commit( nôm na lại là gửi commit đến repossity từ xa)
+
+git add thêm các thư mục file
+
+git commit tường thuật lại các thay đổi đối với file
+
+git status trả về trạng thái repository
+
+git pull ........
+
+
